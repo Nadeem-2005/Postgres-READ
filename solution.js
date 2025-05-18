@@ -1,4 +1,4 @@
-//This is another way to implement the same logic !!
+//This is another way to write the same code
 
 import express from "express";
 import bodyParser from "body-parser";
