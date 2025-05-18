@@ -1,3 +1,5 @@
+//This is another way to write the same code
+
 import express from "express";
 import bodyParser from "body-parser";
 import pg from "pg";
